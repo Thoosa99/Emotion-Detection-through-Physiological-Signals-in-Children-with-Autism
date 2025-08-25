@@ -1,0 +1,2 @@
+# Emotion-Detection-through-Physiological-Signals-in-Children-with-Autism
+This project captures emotions of autistic individuals through physiological signals; skin conductance, pulse rate, and oxygen saturation. Bio-sensors such as GSR sensor, pulse oximeter and pulse rate sensor were used along with arduino UNOR3 to send data. KNN, SVM, and Naive Bayes ere utilized for training and testing the dataset.
